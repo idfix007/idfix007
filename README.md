@@ -1,5 +1,4 @@
-- 👋 @idfix007, French researcher in CyberSec.
-- 👀 I’m interested in Cybersecurity, hacking & Developpement
+- 👋 @idfix007, French Pentester & researcher in CyberSec
 - 
 - 🌱 Do not learn to Hack , hack to learn !!!!!
 - 
